@@ -36,4 +36,4 @@
 
 一行结尾和下一行开始之间的空格在实际显示中会被替换为一个空格或一个换行符。
 
-硬换行的语法只适用于inline形式的多行文字（除了inline的代码），而不适用于block形式的多行文字。
+硬换行的语法只适用于[inline](300_blocks_and_inlines.md)形式的多行文字（除了inline的代码），而不适用于[block](300_blocks_and_inlines.md)形式的多行文字。

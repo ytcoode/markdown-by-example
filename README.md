@@ -6,6 +6,7 @@
 
 # 文章列表
 
-- [水平分割线](leaf_blocks_thematic_breaks.md)
+- [水平分隔线](leaf_blocks_thematic_breaks.md)
 - [标题](leaf_blocks_atx_headings.md)
+- [段落](leaf_blocks_paragraphs.md)
 - [换行](inlines_line_breaks.md)

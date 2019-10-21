@@ -9,6 +9,7 @@
 - [块元素和内联元素](300_blocks_and_inlines.md)
 - [水平分隔线](401_leaf_blocks_thematic_breaks.md)
 - [标题](402_leaf_blocks_atx_headings.md)
+- [代码块](405_leaf_blocks_fenced_code_blocks.md)
 - [段落](408_leaf_blocks_paragraphs.md)
 - [空行](409_leaf_blocks_blank_lines.md)
 - [换行](609_inlines_line_breaks.md)

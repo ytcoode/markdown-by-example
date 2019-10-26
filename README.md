@@ -4,7 +4,7 @@
 
 本项目中的所有示例都是基于Markdown的 [CommonMark](https://commonmark.org/) 标准。
 
-# 文章列表
+# 文章列表（持续更新中）
 
 - [块元素和内联元素](300_blocks_and_inlines.md)
 - [水平分隔线](401_leaf_blocks_thematic_breaks.md)
